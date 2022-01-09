@@ -2,7 +2,7 @@
     font-family: 'Kite One', sans-serif;
     margin: 0%;
 }
-h1{font-size: 50px;
+h1{font-size: 60px;
    
 }
 .half-width{
@@ -17,17 +17,18 @@ h1{font-size: 50px;
     text-decoration: none;
     padding: 10px 30px;
     background-color: solid;
-   background-image: linear-gradient(rgb(219, 223, 20),rgb(243, 83, 8));
+   background-image: linear-gradient(rgb(235, 24, 9),rgb(243, 83, 8));
 font-weight: 700;
 color: white;
 border-radius: 5px;
+
 }
 .required-width{
     width: 50%;
     padding: 5%;
  
 }
-.required-width img{width: 100% ;
+.required-width img{width: 60% ;
     
 }
  #web-dev{
@@ -35,4 +36,96 @@ border-radius: 5px;
     border-image: linear-gradient(orange,red);
     border-image-slice: 1;
 }
+h2{ text-align-last: center;
+font-size: 40px;
+}
+.three-width{
+    display: flex;
+    margin-bottom: 150px;
+}
+.needed-width{
+    width: 25%;
+    padding-left: 2%;
+    padding-right: 2%;
+    
+   
+}
+.needed-width img{
+    width: 60%;
+}
+#first-illustrators{
+    border-radius: 10px;
+    background-color: rgb(163, 235, 238);
+    margin-left: 10%;
+    margin-right: 10px;
+}
+#second-illustrators{background-color: rgb(255, 192, 147);
+border-radius: 10px;
+margin-left: 10px;
+margin-right: 10px;
+}
+#third-illustrators{background-color: cornflowerblue;
+border-radius: 10px;
+margin-left: 10px;
+margin-right: 10%;
+}
+.width-measurment img{
 
+    width: 70%;
+    margin-left: 150px;
+
+
+}
+.width-measurment{
+    width: 50%;
+    padding-right: 10%;
+    margin-bottom: 50px;
+    margin-right: 60px;
+
+
+}
+h3{
+    font-size: 40px;
+}
+.width-1-measurment{width: 50%;
+                margin-left: 150px;
+                margin-bottom: 50px;
+
+                
+
+}
+.width-1-measurment img{width: 60%;
+
+
+}
+#top-image{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 250px;
+   
+}
+.width-2-measurment img{
+
+    width: 100%;
+    margin-left: 150px;
+
+
+}
+.width-2-measurment{
+    width: 50%;
+    padding-right: 10%;
+    margin-bottom: 50px;
+    margin-right: 60px;
+
+
+}
+.footer{
+    text-align-last: center;
+    background-color: black;
+}
+.color-1{
+    color: blanchedalmond;
+}
+.color-2{
+    color: chocolate;
+}
